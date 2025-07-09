@@ -21,7 +21,6 @@ include_directories(${EIGEN3_INCLUDE_DIR})
 add_definitions(${EIGEN_DEFINITIONS})
 
 # personal g2o configs here
-list(APPEND CMAKE_MODULE_PATH /home/zhuyq/g2o/cmake_modules)
 find_package(G2O REQUIRED)
 include_directories(/usr/local/include/g2o)
 set(G2O_LIBS g2o_csparse_extension g2o_stuff g2o_core g2o_solver_csparse g2o_csparse_extension g2o_types_slam3d cxsparse)
