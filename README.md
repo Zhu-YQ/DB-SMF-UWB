@@ -15,17 +15,21 @@
 
 
 ## 3. Build
-`cd ~/$A_ROS_DIR$/src
-    git clone https://github.com/hku-mars/FAST_LIO.git
-    cd FAST_LIO
-    git submodule update --init
-    cd ../..
-    catkin_make
-    source devel/setup.bash`
+```
+cd your_ros_ws
+mkdir src
+cd src
+git clone https://github.com/Zhu-YQ/DB-SMF-UWB.git
+cd ..
+catkin_make
+```
 
 
 ## 4. Run
-
+```
+source devel/setup.bash
+roslaunch db_smf_uwb run_sim.launch
+```
 
 
 ## 5. Citation
