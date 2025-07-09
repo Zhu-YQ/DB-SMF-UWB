@@ -1,0 +1,38 @@
+# io
+uwb_topic: "/uwb"
+save_path: "/home/you_path"
+
+# uwb configs
+num_anchors: 8
+
+anchor_positions: [ 0., 0., 0.16,
+                     14.01391372672038, 0., 0.16,
+                     0., 15.163765474736563, 0.16,
+                     14.19723962, 15.1783084, 0.16,
+                     0.134285, 7.6854759, 2.25,
+                     14.09756276, 7.48562845, 2.25,
+                     7.7767397, 15.23152606, 2.25,
+                     7.71995324, 0.11283668, 2.25 ]
+noise_bound: 0.3
+bias: [ 0.008, 0.008, 0.008, 0.008, 0.008, 0.008, 0.008, 0.008]
+
+# filter
+# initial state bound
+initial_robot_px_bound: 0.03
+initial_robot_py_bound: 0.03
+initial_robot_pz_bound: 0.03
+initial_robot_v_bound: 0.0003
+initial_robot_a_bound: 0.0003
+
+# motion noise bound
+motion_robot_jx_bound: 2
+motion_robot_jy_bound: 2
+motion_robot_jz_bound: 2
+
+# motion noise bound
+motion_robot_jx_bound: 0.4243
+motion_robot_jy_bound: 0.4243
+motion_robot_jz_bound: 0.4243
+
+nlos_thresh: 10
+tag_height: 0.2
