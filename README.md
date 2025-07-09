@@ -2,7 +2,7 @@
 
 ## 1. System Overview
 
-![](pics\overview.png)
+![](./pics/overview.png)
 
 ## 2. Prerequisites
 
