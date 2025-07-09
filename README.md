@@ -1,4 +1,4 @@
-# Safety-Critical Ultra-Wideband 3D Localization with Set-Membership Uncertainty Representation
+# Safety-Critical Ultra-Wideband 3D Localization with Set-Membership Uncertainty Representation [RA-L'25]
 
 ## 1. System Overview
 
