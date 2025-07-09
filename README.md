@@ -2,7 +2,7 @@
 
 ## 1. System Overview
 
-![](D:\研究生科研与项目\UWB定位\safty critical\github\pics\overview.png)
+![](pics\overview.png)
 
 ## 2. Prerequisites
 
