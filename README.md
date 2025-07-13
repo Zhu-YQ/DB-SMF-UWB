@@ -1,4 +1,4 @@
-# Safety-Critical Ultra-Wideband 3D Localization with Set-Membership Uncertainty Representation [RA-L'25]
+# [RA-L'25] Safety-Critical Ultra-Wideband 3D Localization with Set-Membership Uncertainty Representation
 
 ## 1. System Overview
 
@@ -11,7 +11,6 @@
 
 
 ### 2.2 G2O
-[compatible version here](https://github.com/RainerKuemmerle/g2o/tree/9b41a4ea5ade8e1250b9c1b279f3a9c098811b5a)
 
 
 ## 3. Build
