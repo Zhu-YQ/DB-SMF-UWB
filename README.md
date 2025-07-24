@@ -32,3 +32,15 @@ roslaunch db_smf_uwb run_sim.launch
 
 
 ## 5. Citation
+```
+@ARTICLE{11081890,
+  author={Zhou, Bo and Zhu, Yueqi and Rui, Chufan and Luo, Jiasheng and Pan, Yan},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Safety-Critical Ultra-Wideband 3D Localization With Set-Membership Uncertainty Representation}, 
+  year={2025},
+  volume={10},
+  number={9},
+  pages={8826-8833},
+  keywords={Uncertainty;Location awareness;Filters;Safety;Measurement uncertainty;Three-dimensional displays;Noise;Gaussian distribution;Robot sensing systems;Estimation;Localization;range sensing;robot safety;ultra-wideband;set-membership filter},
+  doi={10.1109/LRA.2025.3589806}}
+```
