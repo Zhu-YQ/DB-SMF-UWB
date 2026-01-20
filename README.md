@@ -1,5 +1,7 @@
 # [RA-L'25] Safety-Critical Ultra-Wideband 3D Localization with Set-Membership Uncertainty Representation
 
+Paper Link: https://ieeexplore.ieee.org/document/11081890/
+
 ## 1. System Overview
 
 ![](./pics/overview.png)
@@ -44,3 +46,4 @@ roslaunch db_smf_uwb run_sim.launch
   keywords={Uncertainty;Location awareness;Filters;Safety;Measurement uncertainty;Three-dimensional displays;Noise;Gaussian distribution;Robot sensing systems;Estimation;Localization;range sensing;robot safety;ultra-wideband;set-membership filter},
   doi={10.1109/LRA.2025.3589806}}
 ```
+
