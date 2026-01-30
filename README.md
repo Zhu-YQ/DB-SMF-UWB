@@ -9,7 +9,7 @@ Paper Link: https://ieeexplore.ieee.org/document/11081890/
 ## 2. Prerequisites
 
 - Eigen3
-- G2O
+- G2O (https://github.com/RainerKuemmerle/g2o/tree/9b41a4ea5ade8e1250b9c1b279f3a9c098811b5a)
 
 
 ## 3. Build
@@ -43,6 +43,7 @@ roslaunch db_smf_uwb run_sim.launch
   keywords={Uncertainty;Location awareness;Filters;Safety;Measurement uncertainty;Three-dimensional displays;Noise;Gaussian distribution;Robot sensing systems;Estimation;Localization;range sensing;robot safety;ultra-wideband;set-membership filter},
   doi={10.1109/LRA.2025.3589806}}
 ```
+
 
 
 
