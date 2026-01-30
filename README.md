@@ -40,9 +40,9 @@ roslaunch db_smf_uwb run_sim.launch
   volume={10},
   number={9},
   pages={8826-8833},
-  keywords={Uncertainty;Location awareness;Filters;Safety;Measurement uncertainty;Three-dimensional displays;Noise;Gaussian distribution;Robot sensing systems;Estimation;Localization;range sensing;robot safety;ultra-wideband;set-membership filter},
   doi={10.1109/LRA.2025.3589806}}
 ```
+
 
 
 
