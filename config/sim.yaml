@@ -1,6 +1,5 @@
 # io
 uwb_topic: "/uwb"
-save_path: "/home/you_path"
 
 # uwb configs
 num_anchors: 8
