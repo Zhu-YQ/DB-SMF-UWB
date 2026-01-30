@@ -2,7 +2,9 @@
 
 <launch>
     <node pkg="db_smf_uwb" type="db_smf_node" name="db_smf_node" output="screen"/>
+
     <rosparam command="load" file="$(find db_smf_uwb)/config/sim.yaml" />
+    <param name="save_path" value="$(find db_smf_uwb)/results" />
 
     <param name="/use_sim_time" value="true"/>
     <arg name="bag_file" default = "$(find db_smf_uwb)/bag/sim_uwb.bag" />
